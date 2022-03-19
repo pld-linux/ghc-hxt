@@ -6,7 +6,7 @@
 Summary:	A collection of tools for processing XML with Haskell
 Name:		ghc-%{pkgname}
 Version:	9.3.1.18
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/hxt
